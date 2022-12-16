@@ -5,7 +5,7 @@ var config = {
     texts: [
         "星儿小仙女", //这里,每句话结尾的最后一个逗号必须是英文的哦!! 很重要哦!! 
         "没想到吧", // 同上... 
-        "我会以这样的方式给你过生日吧", 
+        "我会以这样的方式给你过生日", 
         "哈哈哈哈", 
         "愿你贪吃不胖", 
         "愿你懒情不丑", 
@@ -33,13 +33,13 @@ var config = {
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
-        turn_on: "开始",
+        turn_on: "准备好了嘛",
         play: "要不先来点音乐",
-        bannar_coming: "来点颜色",
+        bannar_coming: "再来点色彩",
         balloons_flying: "好像还少点东西",
         cake_fadein: "呐，给你蛋糕",
         light_candle: "快许愿吧",
-        wish_message: "生日快乐，我的宝",
-        story: "A MESSAGE FOR YOU",
+        wish_message: "生日快乐呀，我的宝",
+        story: "给你的魔法祝福",
     }
 };
