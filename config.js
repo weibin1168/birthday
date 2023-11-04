@@ -33,13 +33,13 @@ var config = {
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
-        turn_on: "准备好了嘛",
+        turn_on: "准备好了吗",
         play: "要不先来点音乐",
-        bannar_coming: "再来点色彩",
+        bannar_coming: "再来点色彩吧",
         balloons_flying: "好像还少点东西",
-        cake_fadein: "呐，给你蛋糕",
-        light_candle: "快许愿吧",
-        wish_message: "生日快乐呀，我的宝",
-        story: "给你的魔法祝福",
+        cake_fadein: "要不加个这个",
+        light_candle: "来许个愿吧",
+        wish_message: "生日快乐呀，懿懿",
+        story: "哎,有个奇怪的按钮,要不按下试试",
     }
 };
